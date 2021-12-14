@@ -1,0 +1,26 @@
+@font-face{
+	font-family: Frock-BlackItalic;
+	src: url(../fonts/Frock-BlackItalic.otf) format('opentype');
+}
+
+body{
+	font-family: Frock-BlackItalic;
+	background-color: #2364AA;
+	color: #73BFB8;
+}
+h1{
+	font-size: 36px;
+}
+h2{
+	font-size: 26px;
+	text-decoration: underline;
+}
+a{
+	color: #B4CDED;
+	font-size: 18px;
+	text-decoration: none;
+}
+a:hover{
+	color: #BFCC94;
+	text-decoration: underline;
+}
