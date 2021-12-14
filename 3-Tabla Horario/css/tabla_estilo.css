@@ -1,0 +1,68 @@
+@font-face{
+	font-family: Pancis-Regular;
+	src: url(../fonts/Pancis-Regular.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: Frock-BlackItalic;
+	src: url(../fonts/Frock-BlackItalic.otf) format('opentype');
+}
+
+@font-face{
+	font-family: Snowy Holiday;
+	src: url(../fonts/SnowyHoliday.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: Night Trippers;
+	src: url(../fonts/NightTrippers.otf) format('opentype');
+}
+table {
+	width: 100%;
+	margin: 0 auto;
+	border-collapse: collapse; /* Para evitar border separados en las celdas */
+}
+td, th {
+	border: 2px solid black;
+	text-align: center;
+}
+th {
+	font-size: 40px;
+	background-color: #e8eba0;
+}
+.bdat{
+	font-family: Pancis-Regular;
+	font-size: 30px;
+	background-color: #227300;
+	color: white;
+}
+.lmarc{
+	font-family: Frock-BlackItalic;
+	font-size: 30px;
+	background-color: #ed6b00;
+	color: #f5c447;
+}
+.par{
+	font-family: Snowy Holiday;
+	font-size: 40px;
+	background-color: #0320fc;
+	color: #fc0303;
+}
+.iso{
+	font-family: Night Trippers;
+	font-size: 30px;
+	background-color: #fc0303;
+	color: #008a00;
+}
+.fol{
+	font-family: Pancis-Regular;
+	font-size: 30px;
+	background-color: #00b6bf;
+	color: #d9d650;
+}
+.hard {
+	font-family: Frock-BlackItalic;
+	font-size: 30px;
+	background-color: #e0c600;
+	color: #0d82d6;
+}

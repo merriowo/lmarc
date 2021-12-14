@@ -1,0 +1,148 @@
+body{
+    font-family: Arial, Helvetica;
+    margin: 0;
+}
+
+header {
+    background: black;
+    color: white;
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-bottom: 15px;
+    
+}
+
+#logo {
+    float: left;
+}
+
+nav ul{
+    list-style-type: none;
+    float: left;
+    padding-left: 250px;
+    padding-top: 20px;
+}
+
+nav li{
+    float:left;
+    padding-left: 20px;
+}
+
+nav li a {
+	color: white;
+}
+
+#banner {
+    margin-top: 20px;
+    border: 10px #e3e3e3 solid;
+}
+
+header p {
+    margin-bottom: 0;
+}
+
+#principal {
+    background: #e3e3e3;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.articulos {
+    float: left;
+    width: 230px;
+    padding-right: 2px;
+}
+
+.articulos p {
+    width: 190px;
+}
+
+.titulo {
+    margin-top: 0;
+    color: #ff956b;
+    padding-top: 5px; 
+}
+
+.articulos a {
+    color: #ff956b;
+    text-decoration: none;
+    background: #dadbdc;
+    padding: 10px;
+}
+
+#top {
+    padding-top: 50px;
+}
+
+#titulo2 {
+    color: #fd5f67;
+}
+
+#quinto {
+    display: inline-block;
+}
+
+#tumbado {
+    padding-left: 10px;
+    float: left;
+    margin-top: 15px;
+    padding-right: 35px;
+}
+
+#fernand {
+    margin-bottom: 0;
+    float: right;
+    width: 700px;
+    padding-bottom: 20px;
+}
+
+footer {
+	background-image: url(../img/footer.png);
+    padding-left: 160px;
+    padding-right: 160px;
+    height: 301px;
+    color: white;
+}
+
+footer h2 {
+    margin-top: 0;
+}
+
+footer section {
+    float: left;
+}
+
+#hello {
+    padding-right: 50px;
+}
+
+#bla {
+    padding-right: 50px;
+}
+
+#catpaw {
+    float: right;
+    position: relative;
+    bottom: 100px;
+    left: 160px;
+}
+
+footer p {
+    clear: both;
+    position: relative;
+    margin: 0;
+}
+
+#valid {
+    float: left;
+    bottom: 50px;
+    padding-left: 100px;
+}
+
+#copy {
+    float: right;
+    bottom: 65px;
+    padding-right: 150px;
+}
+
+

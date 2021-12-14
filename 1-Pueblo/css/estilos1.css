@@ -1,0 +1,32 @@
+body {
+	color: white;
+	background-color: #5cd67d;
+}
+p {
+	font-size: 18px;
+}
+#barra {
+	font-size: 25px;
+}
+.destaca {
+	font-weight: bold;
+	color: #d16019;
+}
+h1{
+	color: #fffa6b;
+	text-align: center;
+	font-weight: italic;
+
+}
+h2{
+	color: #2e8194;
+	text-decoration: underline;
+}
+a {
+	text-decoration: none;
+	color: #8a827b;
+}
+a:hover{
+  	color: #ff992b;
+  	text-decoration: underline;
+}

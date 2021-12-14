@@ -1,0 +1,58 @@
+@font-face{
+	font-family: Pancis-Regular;
+	src: url(../fonts/Pancis-Regular.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: Frock-BlackItalic;
+	src: url(../fonts/Frock-BlackItalic.otf) format('opentype');
+}
+
+@font-face{
+	font-family: Snowy Holiday;
+	src: url(../fonts/SnowyHoliday.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: Night Trippers;
+	src: url(../fonts/NightTrippers.otf) format('opentype');
+}
+
+.pancis{
+	font-family: Pancis-Regular;
+	font-size: 30px;
+	color: #342731;
+}
+
+.frock{
+	font-family: Frock-BlackItalic;
+	font-size: 30px;
+	color: #5407ff;
+}
+
+.snowy{
+	font-family: Snowy Holiday;
+	font-size: 30px;
+	color: #540700;
+}
+
+.night{
+	font-family: Night Trippers;
+	font-size: 30px;
+	color: #ff0700;
+}
+
+table{
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+td, th {
+	border: 2px solid black;;
+}
+
+th {
+	font-size: 50px;
+}
+
+/*Clases del ejercicio de la tabla del horario */
